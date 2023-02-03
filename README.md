@@ -3,15 +3,14 @@
 
 My name is Giulio, Data Engineer at [Spotify](https://open.spotify.com/).
 
-Working remotely from Italy. 
-
+Working remotely from Italy.
+<br>
 In love with science, nature, music and video games. 
 
 Just playing the game of life :)
-
 <br>
 
-Not sure why you're here, but here's a list of links about things I do on the internet:
+Not sure why you're here, but here's something about me:
 
 - 💻 Let's start professional with my [LinkedIn](https://www.linkedin.com/in/giuliomazzeo/) profile
 - 📝 I sometimes write tech articles on [Medium](https://medium.com/@giuliomazzeo)
