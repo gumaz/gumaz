@@ -1,12 +1,3 @@
-<style>
-img {
-    max-width: 250px;
-    height: auto;
-    padding-right: 2%;
-}
-</style>
-
-<img align="left" src="images/gupix.png" alt="it's me, gumaz!" >
 
 ### Hello there 👋
 
