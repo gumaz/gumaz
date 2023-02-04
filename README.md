@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-My name is Giulio, Data Engineer at [Spotify](https://open.spotify.com/).
+My name is Giulio and I'm a Data Engineer at [Spotify](https://open.spotify.com/).
 
 Working remotely from Italy.
 <br>
