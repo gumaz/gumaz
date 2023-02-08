@@ -14,7 +14,7 @@ Not sure why you're here, but here's something about me:
 
 - <img alt="linkedin" src="images/linkedin.svg" width="16px" /> Let's start professional with my [LinkedIn](https://www.linkedin.com/in/giuliomazzeo/) profile
 - <img alt="medium" src="images/medium.svg" width="17px" /> I sometimes write technical articles on [Medium](https://medium.com/@giuliomazzeo/)
-- <img alt="instagram" src="images/instagram.svg" width="18px" /> I rarely upload some photos on [Instagram](https://www.instagram.com/gumaz.ig/)
+- <img alt="instagram" src="images/instagram.svg" width="18px" /> I rarely upload photos on [Instagram](https://www.instagram.com/gumaz.ig/)
 - 💬 Feel free to get in touch to talk about
   - 🌏 tech career and IT culture
   - 🏡 remote working
